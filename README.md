@@ -1,6 +1,6 @@
 🚀 LeetCode Solutions
 
-Welcome to my LeetCode problem-solving repository!
+Hello Everyone Welcome to my LeetCode problem-solving repository!
 
 This repository contains my solutions to various Data Structures and Algorithms problems from LeetCode. The goal of this repo is to improve problem-solving skills, strengthen core concepts, and prepare for technical interviews.
 
